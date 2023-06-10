@@ -1,0 +1,1 @@
+import{a as o}from"./entry.a471cab2.js";import{a1 as r,ab as a,au as n}from"./app.config.66633329.js";const t={};function s(e,c){return r(),a("code",null,[n(e.$slots,"default")])}const d=o(t,[["render",s]]);export{d as default};

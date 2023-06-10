@@ -1,0 +1,1 @@
+import{a as o}from"./entry.a471cab2.js";import{a1 as r,ab as t,au as a}from"./app.config.66633329.js";const c={};function s(e,n){return r(),t("blockquote",null,[a(e.$slots,"default")])}const u=o(c,[["render",s]]);export{u as default};
